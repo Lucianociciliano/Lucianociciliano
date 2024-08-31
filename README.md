@@ -16,3 +16,5 @@
 <img align="center" alt="html" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></div><br>
 
 <i>"A simplicidade é o último grau de sofisticação." – Leonardo da Vinci
+
+![snake gif](https://github.com/Lucianociciliano/Lucianociciliano/blob/output/github-contribution-grid-snake.gif)
